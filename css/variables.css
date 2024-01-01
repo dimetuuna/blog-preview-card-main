@@ -1,0 +1,33 @@
+:root{
+/* Front-end Style Guide  */
+
+/* Layout The designs were created to the following  */
+
+/* widths */
+
+--Mobile: 375px;
+--Desktop: 1440px;
+
+/* Colors  */
+
+/* Primary  */
+--Yellow: hsl(47, 88%, 63%);
+
+/* Neutral  */
+--White: hsl(0, 0%, 100%);
+--Grey: hsl(0, 0%, 50%);
+--Black: hsl(0, 0%, 7%); 
+
+/* Typography */
+
+/* Body Copy */
+/* Font size */
+ --fontSize : 16px; /*(paragraph) */
+
+ /* Font Family */
+--fontFamily: 'Figtree', sans-serif;
+
+/* Font Weight */
+--weight600: 600;
+--weight800: 800;
+}
